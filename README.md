@@ -1,3 +1,3 @@
 # SpringBeanConfigurationReference
 
-This is a simple reference for Spring Bean configuration and the autowiriing of objects using the XML config type.
+This is a simple reference for Spring Bean configuration and the autowiring of objects using the XML config type.
